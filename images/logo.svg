@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" style="margin: auto; background: rgb(5, 5, 5) none repeat scroll 0% 0%; display: block; shape-rendering: auto; animation-play-state: running; animation-delay: 0s;" width="150" height="150" preserveAspectRatio="xMidYMid">
+<style type="text/css" style="animation-play-state: running; animation-delay: 0s;">
+  text {
+    text-anchor: middle; font-size: 97px; opacity: 0;
+  }
+</style>
+<g transform="translate(75,75)" style="animation-play-state: running; animation-delay: 0s;">
+  <g transform="translate(0,0)" style="animation-play-state: running; animation-delay: 0s;"><g class="path" style="transform-origin: 6.86665px 6.325px 0px; transform: matrix(1, 0, 0, 1, 0, 14.925); opacity: 0.005; animation: 1s linear 0s 1 normal forwards running float-btt-in-b42ff182-4264-45aa-85ad-f5515d34f308;"><path d="M29.88 14.84L29.88 14.84L29.88 13.00L29.88 13.00Q35.89 12.71 38.02 9.89L38.02 9.89L38.02 9.89Q40.16 7.08 42.00-3.10L42.00-3.10L51.31-56.75L51.31-56.75Q31.43-55.10 20.61-48.16L20.61-48.16L20.61-48.16Q9.80-41.23 9.80-30.07L9.80-30.07L9.80-30.07Q9.80-25.03 13.29-21.53L13.29-21.53L13.29-21.53Q15.71-19.21 19.69-17.99L19.69-17.99L19.69-17.99Q23.67-16.78 26.24-16.64L26.24-16.64L26.24-16.64Q28.81-16.49 29.00-16.68L29.00-16.68L29.00-14.65L29.00-14.65Q17.56-14.65 12.03-20.08L12.03-20.08L12.03-20.08Q7.95-23.86 7.95-30.07L7.95-30.07L7.95-30.07Q7.95-43.94 22.46-51.51L22.46-51.51L22.46-51.51Q36.96-59.07 63.44-59.07L63.44-59.07L63.44-59.07Q79.93-59.07 86.86-54.61L86.86-54.61L86.86-54.61Q93.80-50.15 93.80-42.44L93.80-42.44L93.80-42.44Q93.80-34.73 88.51-29.20L88.51-29.20L88.51-29.20Q83.23-23.67 74.59-20.66L74.59-20.66L74.59-20.66Q87.20 5.53 90.79 10.82L90.79 10.82L90.79 10.82Q94.38 16.10 99.42 16.10L99.42 16.10L99.42 16.10Q102.43 16.10 104.81 14.21L104.81 14.21L104.81 14.21Q107.19 12.32 108.16 9.12L108.16 9.12L110.58 9.12L110.58 9.12Q107.48 19.21 95.35 19.21L95.35 19.21L95.35 19.21Q87.69 19.21 82.69 15.57L82.69 15.57L82.69 15.57Q77.70 11.93 74.30 4.56L74.30 4.56L63.83-18.14L63.83-18.14Q59.95-17.75 58.10-17.75L58.10-17.75L58.10-17.75Q57.81-16.30 57.23-12.80L57.23-12.80L57.23-12.80Q56.65-9.31 56.26-7.57L56.26-7.57L56.26-7.57Q54.32 2.91 46.51 8.88L46.51 8.88L46.51 8.88Q38.70 14.84 29.88 14.84zM91.28-42.10L91.28-42.10L91.28-42.10Q91.28-56.94 64.31-57.23L64.31-57.23L58.49-19.89L58.49-19.89Q72.27-20.27 81.77-26.82L81.77-26.82L81.77-26.82Q91.28-33.37 91.28-42.10" fill="#ffffff" stroke="none" stroke-width="none" transform="translate(-52.39997863769531,26.257999420166016)" style="fill: rgb(255, 255, 255); animation-play-state: running; animation-delay: 0s;"></path></g><g class="path" style="transform-origin: 53.2917px 20px 0px; transform: matrix(1, 0, 0, 1, 0, 14.925); opacity: 0.005; animation: 1s linear 0.33s 1 normal forwards running float-btt-in-b42ff182-4264-45aa-85ad-f5515d34f308;"><path d="M100.69-1.26L100.69-1.26L100.69-1.26Q98.65-3.30 98.65-6.21L98.65-6.21L98.65-6.21Q98.65-9.12 100.69-11.20L100.69-11.20L100.69-11.20Q102.72-13.29 105.63-13.29L105.63-13.29L105.63-13.29Q108.54-13.29 110.63-11.20L110.63-11.20L110.63-11.20Q112.71-9.12 112.71-6.21L112.71-6.21L112.71-6.21Q112.71-3.30 110.63-1.26L110.63-1.26L110.63-1.26Q108.54 0.78 105.63 0.78L105.63 0.78L105.63 0.78Q102.72 0.78 100.69-1.26" fill="#ffffff" stroke="none" stroke-width="none" transform="translate(-52.39997863769531,26.257999420166016)" style="fill: rgb(255, 255, 255); animation-play-state: running; animation-delay: 0s;"></path></g></g>
+</g>
+<style id="float-btt-in-b42ff182-4264-45aa-85ad-f5515d34f308" data-anikit="">@keyframes float-btt-in-b42ff182-4264-45aa-85ad-f5515d34f308
+{
+  0% {
+    animation-timing-function: cubic-bezier(0.2242,0.7499,0.3142,0.8148);
+    transform: matrix(1,0,0,1,0,14.925);
+    opacity: 0.005;
+  }
+  100% {
+    transform: matrix(1,0,0,1,0,0);
+    opacity: 1;
+  }
+}</style><style id="float-btt-in-b42ff182-4264-45aa-85ad-f5515d34f308" data-anikit="">@keyframes float-btt-in-b42ff182-4264-45aa-85ad-f5515d34f308
+{
+  0% {
+    animation-timing-function: cubic-bezier(0.2242,0.7499,0.3142,0.8148);
+    transform: matrix(1,0,0,1,0,14.925);
+    opacity: 0.005;
+  }
+  100% {
+    transform: matrix(1,0,0,1,0,0);
+    opacity: 1;
+  }
+}</style></svg>
