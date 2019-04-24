@@ -461,7 +461,7 @@
         <div class="row contact__main">
             <div class="overlay"></div>
             <div class="col-eight tab-full contact__form">
-                <form id="contact form" name="contact" method="POST" data-netlify="true">
+                <form id="contact form" name="contact" method="POST" data-netlify="true" action="">
                   <fieldset>
     
                     <div class="form-field">
@@ -553,10 +553,7 @@
         })
         .then(res => {
           if (res) {
-            M.toast({
-              html: 'Thank you for your submission!',
-              classes: 'pulse'
-            });
+            alert("Form Submitted!!")
           }
         });
       });
